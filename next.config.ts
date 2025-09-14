@@ -5,3 +5,8 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+module.exports = {
+  images: {
+    domains: ['avatars.mds.yandex.net'],
+  },
+}
